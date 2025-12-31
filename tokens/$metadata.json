@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "Primitive",
+    "Semantic",
+    "Typescale",
+    "Mode/Light",
+    "Mode/Dark",
+    "Components"
+  ]
+}

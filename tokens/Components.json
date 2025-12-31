@@ -1,0 +1,126 @@
+{
+  "component-height": {
+    "button": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "40",
+        "$description": "40px - Default button height at density 0. Standard M3 filled/outlined button."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "36",
+        "$description": "36px - Button height at density -1. Slightly more compact."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "32",
+        "$description": "32px - Button height at density -2. Compact layout."
+      },
+      "density-3": {
+        "$type": "dimension",
+        "$value": "28",
+        "$description": "28px - Button height at density -3. High density for data-rich UIs."
+      }
+    },
+    "input": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "56",
+        "$description": "56px - Default text field height at density 0. Standard M3 outlined/filled text field."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "52",
+        "$description": "52px - Text field height at density -1."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "48",
+        "$description": "48px - Text field height at density -2."
+      },
+      "density-3": {
+        "$type": "dimension",
+        "$value": "44",
+        "$description": "44px - Text field height at density -3."
+      }
+    },
+    "chip": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "32",
+        "$description": "32px - Default chip height at density 0."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "28",
+        "$description": "28px - Chip height at density -1."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "24",
+        "$description": "24px - Chip height at density -2."
+      }
+    },
+    "list-item": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "56",
+        "$description": "56px - Default list item height at density 0. Single-line list item."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "52",
+        "$description": "52px - List item height at density -1."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "48",
+        "$description": "48px - List item height at density -2. Meets minimum touch target."
+      },
+      "density-3": {
+        "$type": "dimension",
+        "$value": "44",
+        "$description": "44px - List item height at density -3."
+      }
+    },
+    "app-bar": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "64",
+        "$description": "64px - Default top app bar height at density 0."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "60",
+        "$description": "60px - App bar height at density -1."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "56",
+        "$description": "56px - App bar height at density -2."
+      }
+    },
+    "tab": {
+      "density-0": {
+        "$type": "dimension",
+        "$value": "48",
+        "$description": "48px - Default tab height at density 0."
+      },
+      "density-1": {
+        "$type": "dimension",
+        "$value": "44",
+        "$description": "44px - Tab height at density -1."
+      },
+      "density-2": {
+        "$type": "dimension",
+        "$value": "40",
+        "$description": "40px - Tab height at density -2."
+      },
+      "density-3": {
+        "$type": "dimension",
+        "$value": "36",
+        "$description": "36px - Tab height at density -3."
+      }
+    }
+  }
+}

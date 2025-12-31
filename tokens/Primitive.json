@@ -1,0 +1,473 @@
+{
+  "Neutral Variant 40": {
+    "$type": "color",
+    "$value": "#5c5e66"
+  },
+  "Neutral Variant 80": {
+    "$type": "color",
+    "$value": "#c4c6cf"
+  },
+  "Neutral Variant 98": {
+    "$type": "color",
+    "$value": "#f9f9ff"
+  },
+  "Neutral Variant 99": {
+    "$type": "color",
+    "$value": "#fdfbff"
+  },
+  "Neutral Variant 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Neutral Variant 95": {
+    "$type": "color",
+    "$value": "#eff0fa"
+  },
+  "Neutral 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Tertiary 50": {
+    "$type": "color",
+    "$value": "#936b86"
+  },
+  "Neutral 5": {
+    "$type": "color",
+    "$value": "#101114"
+  },
+  "Neutral 10": {
+    "$type": "color",
+    "$value": "#1b1b1e"
+  },
+  "Neutral 15": {
+    "$type": "color",
+    "$value": "#252629"
+  },
+  "Error 70": {
+    "$type": "color",
+    "$value": "#ff8a79"
+  },
+  "Neutral 20": {
+    "$type": "color",
+    "$value": "#2f3033"
+  },
+  "Primary 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Neutral 35": {
+    "$type": "color",
+    "$value": "#525256"
+  },
+  "Neutral Variant 50": {
+    "$type": "color",
+    "$value": "#74777f"
+  },
+  "Neutral 50": {
+    "$type": "color",
+    "$value": "#77777a"
+  },
+  "Secondary 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Neutral 60": {
+    "$type": "color",
+    "$value": "#919094"
+  },
+  "Neutral 80": {
+    "$type": "color",
+    "$value": "#c7c6ca"
+  },
+  "Neutral Variant 90": {
+    "$type": "color",
+    "$value": "#e0e2eb"
+  },
+  "Primary 35": {
+    "$type": "color",
+    "$value": "#1f5198"
+  },
+  "Neutral Variant 5": {
+    "$type": "color",
+    "$value": "#0e1117"
+  },
+  "Error 90": {
+    "$type": "color",
+    "$value": "#ffdad5"
+  },
+  "Neutral 95": {
+    "$type": "color",
+    "$value": "#f2f0f4"
+  },
+  "Neutral 90": {
+    "$type": "color",
+    "$value": "#e3e2e6"
+  },
+  "Secondary 90": {
+    "$type": "color",
+    "$value": "#e7ea36"
+  },
+  "Neutral 98": {
+    "$type": "color",
+    "$value": "#faf9fd"
+  },
+  "Error 10": {
+    "$type": "color",
+    "$value": "#410000"
+  },
+  "Error 15": {
+    "$type": "color",
+    "$value": "#540000"
+  },
+  "Error 20": {
+    "$type": "color",
+    "$value": "#650b06"
+  },
+  "Error 35": {
+    "$type": "color",
+    "$value": "#952f23"
+  },
+  "Error 60": {
+    "$type": "color",
+    "$value": "#e66b5a"
+  },
+  "Neutral 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Secondary 60": {
+    "$type": "color",
+    "$value": "#949600"
+  },
+  "Error 98": {
+    "$type": "color",
+    "$value": "#fff8f6"
+  },
+  "Tertiary 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Secondary 30": {
+    "$type": "color",
+    "$value": "#484a00"
+  },
+  "Tertiary 15": {
+    "$type": "color",
+    "$value": "#3a1b32"
+  },
+  "Tertiary 20": {
+    "$type": "color",
+    "$value": "#46263d"
+  },
+  "Error 95": {
+    "$type": "color",
+    "$value": "#ffedea"
+  },
+  "Neutral 99": {
+    "$type": "color",
+    "$value": "#fdfbff"
+  },
+  "Tertiary 90": {
+    "$type": "color",
+    "$value": "#ffd7ef"
+  },
+  "Primary 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Tertiary 25": {
+    "$type": "color",
+    "$value": "#523048"
+  },
+  "Error 99": {
+    "$type": "color",
+    "$value": "#fffbff"
+  },
+  "Tertiary 30": {
+    "$type": "color",
+    "$value": "#5f3c54"
+  },
+  "Error 50": {
+    "$type": "color",
+    "$value": "#c55244"
+  },
+  "Tertiary 35": {
+    "$type": "color",
+    "$value": "#6b4760"
+  },
+  "Tertiary 40": {
+    "$type": "color",
+    "$value": "#78536c"
+  },
+  "Tertiary 70": {
+    "$type": "color",
+    "$value": "#cb9ebb"
+  },
+  "Neutral Variant 60": {
+    "$type": "color",
+    "$value": "#8e9099"
+  },
+  "Tertiary 99": {
+    "$type": "color",
+    "$value": "#fffbff"
+  },
+  "Neutral Variant 15": {
+    "$type": "color",
+    "$value": "#23262d"
+  },
+  "Tertiary 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Primary 70": {
+    "$type": "color",
+    "$value": "#81acf8"
+  },
+  "Neutral Variant 20": {
+    "$type": "color",
+    "$value": "#2d3037"
+  },
+  "Secondary 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Primary 80": {
+    "$type": "color",
+    "$value": "#abc7ff"
+  },
+  "Error 25": {
+    "$type": "color",
+    "$value": "#75170f"
+  },
+  "Error 30": {
+    "$type": "color",
+    "$value": "#852319"
+  },
+  "Neutral 40": {
+    "$type": "color",
+    "$value": "#5e5e62"
+  },
+  "Tertiary 60": {
+    "$type": "color",
+    "$value": "#af84a0"
+  },
+  "Secondary 40": {
+    "$type": "color",
+    "$value": "#616200"
+  },
+  "Secondary 5": {
+    "$type": "color",
+    "$value": "#111200"
+  },
+  "Error 80": {
+    "$type": "color",
+    "$value": "#ffb4a8"
+  },
+  "Secondary 20": {
+    "$type": "color",
+    "$value": "#323200"
+  },
+  "Secondary 25": {
+    "$type": "color",
+    "$value": "#3d3e00"
+  },
+  "Secondary 15": {
+    "$type": "color",
+    "$value": "#272700"
+  },
+  "Secondary 35": {
+    "$type": "color",
+    "$value": "#545600"
+  },
+  "Error 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Neutral 25": {
+    "$type": "color",
+    "$value": "#3b3b3e"
+  },
+  "Primary 50": {
+    "$type": "color",
+    "$value": "#4b77c0"
+  },
+  "Neutral 30": {
+    "$type": "color",
+    "$value": "#46464a"
+  },
+  "Secondary 50": {
+    "$type": "color",
+    "$value": "#7a7c00"
+  },
+  "Primary 95": {
+    "$type": "color",
+    "$value": "#ecf0ff"
+  },
+  "Secondary 95": {
+    "$type": "color",
+    "$value": "#f6f945"
+  },
+  "Secondary 70": {
+    "$type": "color",
+    "$value": "#afb100"
+  },
+  "Neutral Variant 25": {
+    "$type": "color",
+    "$value": "#383b43"
+  },
+  "Secondary 80": {
+    "$type": "color",
+    "$value": "#cbce0e"
+  },
+  "Tertiary 98": {
+    "$type": "color",
+    "$value": "#fff8f9"
+  },
+  "Secondary 98": {
+    "$type": "color",
+    "$value": "#feff9a"
+  },
+  "Primary 5": {
+    "$type": "color",
+    "$value": "#00102b"
+  },
+  "Secondary 10": {
+    "$type": "color",
+    "$value": "#1c1d00"
+  },
+  "Primary 90": {
+    "$type": "color",
+    "$value": "#d7e3ff"
+  },
+  "Error 40": {
+    "$type": "color",
+    "$value": "#a53b2e"
+  },
+  "Primary 15": {
+    "$type": "color",
+    "$value": "#002551"
+  },
+  "Primary 98": {
+    "$type": "color",
+    "$value": "#f9f9ff"
+  },
+  "Tertiary 5": {
+    "$type": "color",
+    "$value": "#22061c"
+  },
+  "Primary 99": {
+    "$type": "color",
+    "$value": "#fdfbff"
+  },
+  "Neutral Variant 70": {
+    "$type": "color",
+    "$value": "#a9abb4"
+  },
+  "Secondary 99": {
+    "$type": "color",
+    "$value": "#fffbff"
+  },
+  "Tertiary 10": {
+    "$type": "color",
+    "$value": "#2e1127"
+  },
+  "Error 100": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Primary 10": {
+    "$type": "color",
+    "$value": "#001b3f"
+  },
+  "Tertiary 95": {
+    "$type": "color",
+    "$value": "#ffecf5"
+  },
+  "Neutral 70": {
+    "$type": "color",
+    "$value": "#ababae"
+  },
+  "Primary 20": {
+    "$type": "color",
+    "$value": "#002f65"
+  },
+  "Error 5": {
+    "$type": "color",
+    "$value": "#2d0000"
+  },
+  "Primary 60": {
+    "$type": "color",
+    "$value": "#6691db"
+  },
+  "Tertiary 80": {
+    "$type": "color",
+    "$value": "#e8b9d7"
+  },
+  "Primary 25": {
+    "$type": "color",
+    "$value": "#003a7a"
+  },
+  "Neutral Variant 10": {
+    "$type": "color",
+    "$value": "#191c22"
+  },
+  "Neutral Variant 30": {
+    "$type": "color",
+    "$value": "#44474e"
+  },
+  "Neutral Variant 0": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Neutral Variant 35": {
+    "$type": "color",
+    "$value": "#50525a"
+  },
+  "Primary 30": {
+    "$type": "color",
+    "$value": "#0a458b"
+  },
+  "Primary 40": {
+    "$type": "color",
+    "$value": "#2e5ea5"
+  },
+  "dimension": {
+    "base": {
+      "$type": "dimension",
+      "$value": "4",
+      "$description": "Unité de base Material 3 (4dp). Toutes les dimensions sont des multiples de cette valeur. Base unit for all spacing calculations."
+    },
+    "density-interval": {
+      "$type": "dimension",
+      "$value": "4",
+      "$description": "Intervalle de densité M3. Chaque niveau de densité (-1 à -5) réduit la hauteur des composants de cette valeur."
+    }
+  },
+  "Font theme": {
+    "Brand": {
+      "$type": "fontFamilies",
+      "$value": "Roboto",
+      "$description": "Police pour les titres"
+    },
+    "Plain": {
+      "$type": "fontFamilies",
+      "$value": "Open Sans",
+      "$description": "Police pour les textes courants"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "regular",
+      "$description": "Pour les textes courants"
+    },
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "medium",
+      "$description": "Pour les textes avec un peut plus d'évidance"
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "SemiBold",
+      "$description": "Pour les textes avec plus d'évidance"
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "padding": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No padding. Use when content should touch container edges."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small padding (all sides). For compact chips, dense badges, tight icon containers."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small padding (all sides). For compact cards, small tooltips, dense list items."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium padding (all sides) - DEFAULT. For standard cards, dialogs, content containers."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large padding (all sides). For prominent cards, hero content, spacious containers."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large padding (all sides). For page sections, modal dialogs, feature containers."
+    }
+  },
+  "padding-x": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No horizontal padding."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small horizontal padding (left + right). For micro spacing in icons."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small horizontal padding (left + right). For compact chips, small tags."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium horizontal padding (left + right) - DEFAULT. For standard components."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large horizontal padding (left + right). For buttons, nav items, spacious elements."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large horizontal padding (left + right). For hero buttons, prominent CTAs."
+    }
+  },
+  "padding-y": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No vertical padding."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small vertical padding (top + bottom). For compact inline elements."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small vertical padding (top + bottom). For buttons, compact inputs."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.3}",
+      "$description": "12px - Medium vertical padding (top + bottom) - DEFAULT for buttons. For standard button height."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Large vertical padding (top + bottom). For text fields, comfortable inputs."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Extra large vertical padding (top + bottom). For large form fields, spacious inputs."
+    }
+  },
+  "margin": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No margin. Elements directly adjacent."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small margin (all sides). For micro separation between tightly related elements."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small margin (all sides). For compact spacing between related components."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium margin (all sides) - DEFAULT. For standard component separation."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large margin (all sides). For prominent component separation."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large margin (all sides). For major section separation."
+    }
+  },
+  "margin-x": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No horizontal margin."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small horizontal margin (left + right). For tight inline spacing."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small horizontal margin (left + right). For button groups, inline elements."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium horizontal margin (left + right) - DEFAULT. For standard horizontal spacing."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large horizontal margin (left + right). For prominent horizontal separation."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large horizontal margin (left + right). For grid gutters, column spacing."
+    }
+  },
+  "margin-y": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No vertical margin."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small vertical margin (top + bottom). For tight stacking, label-to-input."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small vertical margin (top + bottom). For list items, form field groups."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium vertical margin (top + bottom) - DEFAULT. For paragraph spacing, content sections."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large vertical margin (top + bottom). For major content sections, card groups."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large vertical margin (top + bottom). For page section dividers."
+    },
+    "xxl": {
+      "$type": "dimension",
+      "$value": "{spacing.12}",
+      "$description": "48px - Maximum vertical margin (top + bottom). For hero-to-content spacing, major divisions."
+    }
+  },
+  "gap": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No gap. For elements that should touch in flex/grid layouts."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small gap. For dense grids, compact chip groups, tight layouts."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small gap. For standard chip groups, icon grids, compact lists."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium gap - DEFAULT. For card grids, form layouts, standard component spacing."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large gap. For spacious grids, prominent card layouts."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large gap. For hero layouts, feature grids, prominent sections."
+    }
+  },
+  "gap-x": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No horizontal gap (column-gap)."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small column gap. For dense horizontal layouts."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small column gap. For compact horizontal grids, button groups."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium column gap - DEFAULT. For standard horizontal grid spacing."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large column gap. For spacious horizontal layouts, grid gutters."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large column gap. For wide column spacing, prominent grid gutters."
+    }
+  },
+  "gap-y": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{spacing.0}",
+      "$description": "0px - No vertical gap (row-gap)."
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{spacing.1}",
+      "$description": "4px - Extra small row gap. For dense vertical layouts, compact lists."
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{spacing.2}",
+      "$description": "8px - Small row gap. For standard list spacing, form field groups."
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{spacing.4}",
+      "$description": "16px - Medium row gap - DEFAULT. For standard vertical grid spacing, card lists."
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{spacing.6}",
+      "$description": "24px - Large row gap. For spacious vertical layouts, section spacing."
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{spacing.8}",
+      "$description": "32px - Extra large row gap. For major vertical separation in grids."
+    }
+  },
+  "Corner": {
+    "None": {
+      "$type": "dimension",
+      "$value": "0px"
+    },
+    "Extra-small": {
+      "$type": "dimension",
+      "$value": "4px"
+    },
+    "Small": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "Medium": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "Large": {
+      "$type": "dimension",
+      "$value": "16px"
+    },
+    "Large-increased": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "Extra-large": {
+      "$type": "dimension",
+      "$value": "28px"
+    },
+    "Extra-large-increased": {
+      "$type": "dimension",
+      "$value": "32px"
+    },
+    "Extra-extra-large": {
+      "$type": "dimension",
+      "$value": "48px"
+    },
+    "Full": {
+      "$type": "dimension",
+      "$value": "1000px"
+    }
+  },
+  "spacing": {
+    "0": {
+      "$type": "dimension",
+      "$value": "0",
+      "$description": "0px - Aucun espacement. Use for elements that should touch or overlap."
+    },
+    "1": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 1",
+      "$description": "4px - Micro spacing. For tight internal component spacing, icon-to-text, dense lists."
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 2",
+      "$description": "8px - Extra small. For compact component padding, small gaps between related elements."
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 3",
+      "$description": "12px - Small. For standard gaps between closely related elements, small card padding."
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 4",
+      "$description": "16px - Medium (M3 DEFAULT). For standard component padding, form field gaps, list item spacing."
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 5",
+      "$description": "20px - Medium-large. For comfortable breathing room between form sections."
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 6",
+      "$description": "24px - Large. For section margins, card padding, dialog content spacing."
+    },
+    "7": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 7",
+      "$description": "28px - Large variant. For generous component margins."
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 8",
+      "$description": "32px - Extra large. For major section divisions, prominent content areas, modal padding."
+    },
+    "10": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 10",
+      "$description": "40px - XXL. For significant visual breaks between major content blocks."
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 12",
+      "$description": "48px - XXXL. For page-level margins, hero section padding, major layout divisions."
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 16",
+      "$description": "64px - Maximum standard. For dramatic visual separation, landing page sections."
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 20",
+      "$description": "80px - Extended. For wide screens and maximum visual breathing room."
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": "{dimension.base} * 24",
+      "$description": "96px - Maximum. For largest possible gaps in desktop layouts."
+    }
+  },
+  "size": {
+    "touch-target-min": {
+      "$type": "dimension",
+      "$value": "48",
+      "$description": "48px - Minimum touch target (M3 accessibility requirement). All interactive elements must meet this minimum."
+    },
+    "icon": {
+      "xs": {
+        "$type": "dimension",
+        "$value": "16",
+        "$description": "16px - Extra small icon. For inline text icons, compact UI."
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "20",
+        "$description": "20px - Small icon. For dense layouts, secondary icons."
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "24",
+        "$description": "24px - Medium icon (M3 DEFAULT). Standard icon size for most contexts."
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "32",
+        "$description": "32px - Large icon. For prominent actions, navigation."
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": "40",
+        "$description": "40px - Extra large icon. For hero elements, empty states."
+      },
+      "xxl": {
+        "$type": "dimension",
+        "$value": "48",
+        "$description": "48px - Maximum icon. For illustrations, feature highlights."
+      }
+    }
+  }
+}
